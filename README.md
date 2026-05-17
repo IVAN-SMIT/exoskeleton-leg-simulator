@@ -76,9 +76,9 @@ python src/analysis/generate_report.py --input ./data/raw/ --output ./outputs/
 
 # Авторы:
 
-* Смирнов Иван [@IVAN_SMIT](t.me/@IVAN_SMIT)
-* Нагорный Леонид [@DRAMMATICPENNY59](t.me/@DRAMMATICPENNY59)
-* Гусаров Сергей [@ser4jk](t.me/@ser4jk)
+* Смирнов Иван 
+* Нагорный Леонид
+* Гусаров Сергей 
 
 
 
